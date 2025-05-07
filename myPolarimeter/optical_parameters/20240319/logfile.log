@@ -1,0 +1,27 @@
+2024-03-19 16:19:43,191 - ERROR - ray2constants(): Arguments csv_file, header, and out_file must be strings.
+2024-03-19 16:20:51,442 - ERROR - ray2constants(): Arguments csv_file, header, and out_file must be strings.
+2024-03-19 16:33:54,113 - ERROR - ray2constants(): Error when trying to open or read the file M4_1e6rays.csv
+2024-03-19 16:39:01,101 - INFO - Polarimeter(): Loaded data from file 1 (M1.dat).
+2024-03-19 16:39:01,103 - INFO - Polarimeter(): Loaded data from file 2 (M2.dat).
+2024-03-19 16:39:01,105 - INFO - Polarimeter(): Loaded data from file 3 (M1.dat).
+2024-03-19 16:39:01,106 - INFO - Polarimeter(): Loaded data from file 4 (M4.dat).
+2024-03-19 16:41:32,778 - INFO - Polarimeter(): Loaded data from file 1 (M1.dat).
+2024-03-19 16:41:32,779 - INFO - Polarimeter(): Loaded data from file 2 (M2.dat).
+2024-03-19 16:41:32,780 - INFO - Polarimeter(): Loaded data from file 3 (M1.dat).
+2024-03-19 16:41:32,781 - INFO - Polarimeter(): Loaded data from file 4 (M4.dat).
+2024-03-19 17:02:19,947 - INFO - Polarimeter(): Loaded data from file 1 (M1.dat).
+2024-03-19 17:02:19,949 - INFO - Polarimeter(): Loaded data from file 2 (M2.dat).
+2024-03-19 17:02:19,950 - INFO - Polarimeter(): Loaded data from file 3 (M1.dat).
+2024-03-19 17:02:19,951 - INFO - Polarimeter(): Loaded data from file 4 (M4.dat).
+2024-03-19 17:02:47,841 - INFO - Polarimeter(): Loaded data from file 1 (M1.dat).
+2024-03-19 17:02:47,845 - INFO - Polarimeter(): Loaded data from file 2 (M2.dat).
+2024-03-19 17:02:47,847 - INFO - Polarimeter(): Loaded data from file 3 (M1.dat).
+2024-03-19 17:02:47,848 - INFO - Polarimeter(): Loaded data from file 4 (M4.dat).
+2024-03-19 17:04:03,375 - INFO - Polarimeter(): Loaded data from file 1 (M1.dat).
+2024-03-19 17:04:03,377 - INFO - Polarimeter(): Loaded data from file 2 (M2.dat).
+2024-03-19 17:04:03,378 - INFO - Polarimeter(): Loaded data from file 3 (M1.dat).
+2024-03-19 17:04:03,380 - INFO - Polarimeter(): Loaded data from file 4 (M4.dat).
+2024-03-19 17:07:32,558 - INFO - Polarimeter(): Loaded data from file 1 (M1.dat).
+2024-03-19 17:07:32,560 - INFO - Polarimeter(): Loaded data from file 2 (M2.dat).
+2024-03-19 17:07:32,561 - INFO - Polarimeter(): Loaded data from file 3 (M1.dat).
+2024-03-19 17:07:32,563 - INFO - Polarimeter(): Loaded data from file 4 (M4.dat).
